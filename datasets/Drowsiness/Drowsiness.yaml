@@ -1,0 +1,10 @@
+path: L:/PythonCode/PySideCode/YOLOv8v5Code/DrowsinessDetection/datasets/Drowsiness
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names:
+- Yawn
+- close
+- noYawn
+- open

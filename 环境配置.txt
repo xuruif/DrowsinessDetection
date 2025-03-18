@@ -1,0 +1,21 @@
+[配置环境]
+请按照给定的python版本配置环境，否则可能会因依赖不兼容而出错
+(1)使用anaconda新建python3.10环境:
+conda create -n env_rec python=3.10
+(2)激活创建的环境:
+conda activate env_rec
+(3)使用pip安装所需的依赖，可通过requirements.txt:
+pip install -r requirements.txt
+
+
+基于YOLOv8/v5的疲劳驾驶检测系统v1.0
+作者：逗逗班学Python
+面包多: https://mbd.pub/o/deepcode
+CSDN: https://deepcode.blog.csdn.net/
+BiliBili: https://space.bilibili.com/582341464
+博客园: https://www.cnblogs.com/deeppython
+知乎: https://www.zhihu.com/people/deeppython
+
+原创代码，仅用于学习交流，禁止他人商用和盗卖，盗版必究！
+
+
